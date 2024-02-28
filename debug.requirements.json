@@ -1,0 +1,30 @@
+[
+  {
+    "requirement": "The app must implement all the features as specified in the Cypress test suite.",
+    "criteria": "<p>Ensure that the application passes all the Cypress end-to-end tests provided in the challenge documentation.</p><p>Particularly, verify the correct interaction flow from starting a new game, navigating between questions, to displaying the final score, and allowing a retry.</p>"
+  },
+  {
+    "requirement": "The app utilizes Next.js, React.js, TypeScript, and Styled Components effectively.",
+    "criteria": "<p>Review the code for proper use of Next.js, React.js, TypeScript, and Styled Components.</p><p>Evaluate how components are structured, styled, and if TypeScript's type safety features are adequately utilized.</p>"
+  },
+  {
+    "requirement": "The app includes comprehensive unit tests using Jest and React Testing Library.",
+    "criteria": "<p>Ensure that there are meaningful unit tests for the React components and any logical functions, covering both the happy path and edge cases.</p><p>The tests must be written using Jest and React Testing Library.</p>"
+  },
+  {
+    "requirement": "The app demonstrates performance considerations.",
+    "criteria": "<p>Review the application for performance optimizations, such as lazy loading React components where appropriate and memoization of expensive calculations.</p><p>Evaluate browser performance using tools like Lighthouse to identify any potential bottlenecks.</p>"
+  },
+  {
+    "requirement": "The app handles state and side effects in a clean and efficient manner.",
+    "criteria": "<p>Assess how the application manages state, particularly in relation to handling user interactions and fetching data.</p><p>Look for use of React's built-in hooks or any state management library if used, and evaluate the cleanliness and efficiency of its implementation.</p>"
+  },
+  {
+    "requirement": "The app's code is well-organized and follows best practices.",
+    "criteria": "<p>Examine the code structure for organization into reusable modules, components, and hooks.</p><p>Assess the code for readability, maintainability, and adherence to best practices in Next.js, React.js, TypeScript, and Styled Components.</p>"
+  },
+  {
+    "requirement": "The app provides an accessible and user-friendly UI.",
+    "criteria": "<p>Verify that the application's user interface is accessible according to WCAG guidelines and provides a smooth user experience across different devices and screen sizes.</p><p>Particularly, assess the semantic use of HTML elements, keyboard navigability, and responsive design.</p>"
+  }
+]

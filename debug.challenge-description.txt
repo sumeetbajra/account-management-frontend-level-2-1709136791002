@@ -1,0 +1,1 @@
+This coding challenge involves building an interactive quiz game with Next.js, React.js, TypeScript, and Styled Components. It assesses the candidate's ability in frontend development, including unit testing, performance optimization, and best coding practices.
